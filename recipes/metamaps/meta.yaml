@@ -19,11 +19,9 @@ requirements:
     - llvm-openmp  # [osx]
   host:
     - zlib
-    - boost-cpp==1.65.0
   run:
     - llvm-openmp  # [osx]
     - zlib
-    - boost-cpp==1.65.0
     - perl
     - perl-file-slurp
     - perl-http-message
